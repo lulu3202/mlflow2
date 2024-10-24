@@ -29,5 +29,6 @@ This project demonstrates how to train a machine learning model for house price 
    2. Log the results to MLflow and compare different runs in the MLflow UI.
 
 ### Output 
-![alt text](image.png)
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/1b5a1ce8-b007-478a-a91a-d68f75b6734f)
+![image](https://github.com/user-attachments/assets/adf5b73d-9461-4ebd-b3dd-dd9f848c7273)
+
